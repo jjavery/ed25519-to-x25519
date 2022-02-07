@@ -1,5 +1,5 @@
 {
-  "name": "ed25519-to-x25519",
+  "name": "@jjavery/ed25519-to-x25519",
   "version": "0.1.0",
   "description": "Convert Node.js KeyObject from Ed25519 (signing) to X25519 (DH)",
   "keywords": [
